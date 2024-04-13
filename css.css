@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: start;
+  background-color: #67e6d1;
+}
+
+canvas {
+  height: 100vh;
+  border: 1px cyan solid;
+}
